@@ -1,16 +1,36 @@
-# notes_app
+<p align="center">
+  <img src="assets/images/icon.png" alt="Quick Notes Logo" width="100">
+</p>
+# Quick Notes
 
-A new Flutter project.
+"Quick Notes" is a Flutter-based note-taking app designed for simplicity and efficiency. With a clean interface and powerful features, it provides a seamless experience for users to capture thoughts on the go.
+
+## Key Features
+
+- **Effortless Note-Taking:** Quickly jot down your thoughts and ideas.
+- **Rich Text Formatting:** Enhance your notes with bold, italics, and more.
+- **Image Support:** Attach images to your notes for visual reference.
+- **Responsive Design:** Enjoy a consistent experience across various devices.
+- **Intuitive UI:** User-friendly interface for smooth navigation.
+
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](/screenshots/screenshot2.png)
+*Caption for Screenshot 2*
+
+## Technologies Used
+
+- Flutter: The app is developed using the Flutter framework.
+- Google Fonts: Utilizes Google Fonts for a modern and readable typography style.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with "Quick Notes," follow these simple steps:
+1. Clone the repository.
+2. Install dependencies using `flutter pub get`.
+3. Run the app with `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Explore the world of effortless note-taking with "Quick Notes"!
