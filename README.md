@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/images/icon.png" alt="Quick Notes Logo" width="100">
 </p>
+
 # Quick Notes
 
 "Quick Notes" is a Flutter-based note-taking app designed for simplicity and efficiency. With a clean interface and powerful features, it provides a seamless experience for users to capture thoughts on the go.
@@ -14,17 +15,35 @@
 - **Intuitive UI:** User-friendly interface for smooth navigation.
 
 ## Screenshots
+<p align="center">
+  <img src="assets/images/startScreenimage.png" alt="Quick Notes Start Screen" width="300">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/images/Homepageimage.png" alt="Quick Notes Home Screen" width="300">
+</p>
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for Screenshot 1*
+*Start Screen: Begin your note-taking journey with Quick Notes' clean and inviting start screen.*
 
-![Screenshot 2](/screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+*Home Screen: Easily manage and access your notes on Quick Notes' intuitive and organized home screen.*
+
+### Add Screen
+
+<p align="center">
+  <img src="assets/images/addPageImage.png" alt="Quick Notes Add Screen" width="300">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/images/settingsPageimage.png" alt="Quick Notes Settings Screen" width="300">
+</p>
+
+*Add Screen: Seamlessly create and edit your notes with Quick Notes' user-friendly interface.*
+
+*Settings Screen: Personalize your Quick Notes experience with customizable settings.*
 
 ## Technologies Used
 
 - Flutter: The app is developed using the Flutter framework.
 - Google Fonts: Utilizes Google Fonts for a modern and readable typography style.
+- SharedPreferences: Manages local storage for persistent data.
+- Provider: Implements state management for efficient app-wide data sharing.
+
 
 ## Getting Started
 
