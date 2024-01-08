@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="path/to/your/logo.png" alt="Quick Notes Logo" width="100">
+</p>
 # Quick Notes
 
 "Quick Notes" is a Flutter-based note-taking app designed for simplicity and efficiency. With a clean interface and powerful features, it provides a seamless experience for users to capture thoughts on the go.
