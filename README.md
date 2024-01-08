@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your/logo.png" alt="Quick Notes Logo" width="100">
+  <img src="assets/images/icon.png" alt="Quick Notes Logo" width="100">
 </p>
 # Quick Notes
 
